@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$USER_HOME$/Documents/pm-api-stubs-master/pm" />
+      <path value="$USER_HOME$/Documents/ZendFramework-1.12.20" />
+    </include_path>
+  </component>
+</project>

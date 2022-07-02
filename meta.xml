@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<module>
+  <id>stripe-subscriptions</id>
+  <name>Module stripe-subscriptions</name>
+  <description>Add module description here...</description>
+  <version>1.0</version>
+  <release>1</release>
+  <vendor/>
+  <url>https://mtro.fr</url>
+  <plesk_min_version>18.0.44</plesk_min_version>
+</module>

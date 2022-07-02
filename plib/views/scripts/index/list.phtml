@@ -1,0 +1,13 @@
+<?php echo $this->renderTabs($this->tabs); ?>
+
+<?php
+echo "Stripe: <a href='".pm_Settings::get('stripeUrl')."' target='_blank' rel='noreferrer'>" . pm_Settings::get('stripeUrl') . "</a>";
+?>
+
+<?php
+if($this->clients) {
+    echo $this->renderList($this->list);
+}else {
+    echo "<h4>$this->clients</h4>";
+}
+?>

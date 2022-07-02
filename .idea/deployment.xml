@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="plesk web mtro" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="plesk web mtro">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/opt/psa/admin/htdocs/modules/stripe-subscriptions" local="$PROJECT_DIR$/htdocs" web="/" />
+            <mapping deploy="/opt/psa/admin/plib/modules/stripe-subscriptions" local="$PROJECT_DIR$/plib" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

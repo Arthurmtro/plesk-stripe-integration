@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="916173eb-bef0-428b-8502-91f070b9e7aa" name="plesk web mtro">
+        <fileTransfer accessType="SFTP" host="141.95.193.28" port="22" sshConfigId="bfcd792b-2a24-4537-a594-870b6cc99375" sshConfig="root@141.95.193.28:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
